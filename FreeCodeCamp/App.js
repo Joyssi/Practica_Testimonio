@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { ScrollView, StyleSheet, Text, View, Image } from 'react-native';
+// Importamos el componente Testimonio.js
 import Testimonio from './Componentes/Testimonio';
 
 export default function App() {
